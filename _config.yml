@@ -1,1 +1,13 @@
 theme: minima
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: jekyllrb
+    github:  jekyll
+    instagram: jekyll
+    linkedin: jekyll
+    youtube: surajincloud
+    youtube_channel_name: SurajinCloud
